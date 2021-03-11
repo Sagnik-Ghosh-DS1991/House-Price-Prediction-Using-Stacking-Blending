@@ -1,6 +1,6 @@
 # House-Price-Prediction-Using-Stacking-Blending
 
-Housing Price prediction using stacking ensemble method
+Housing Price prediction using stacking/Random forest ensemble method
 
 This POC contain below files:
 
